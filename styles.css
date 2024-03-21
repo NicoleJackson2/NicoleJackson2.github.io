@@ -233,6 +233,10 @@ a{
     border-radius: 4px;
   }
 
+  .quizBtnText{
+    color:#e7dfdd;
+  }
+
   /*standards pages*/
   /* Style the button that is used to open and close the collapsible content */
 .collapsible {
