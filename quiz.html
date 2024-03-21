@@ -47,7 +47,9 @@
                    
 
                     <form>
-                      <p style="font-size: 20px;">Which Category would be most helpful?</p>
+                    
+                      <fieldset>
+                        <legend>Which Category would be most helpful?</legend>
                       <input type="radio" id="addiction" name="category" value="Addiction">
                       <label for="addiction">Addiction</label><br>
 
@@ -59,8 +61,11 @@
 
                       <input type="radio" id="physicalHealth" name="category" value="Physical health">
                       <label for="physicalHealth" style="margin-bottom: 30px;">Physical Health</label>
+                    </fieldset>
 
-                      <p style="font-size: 20px;">What is most important?</p>
+                    <fieldset>
+                        <legend>What is most important?</legend>
+                     
                       <input type="radio" id="medication" name="important" value="Accessing Medication">
                       <label for="medication">Accessing Medication</label><br>
 
@@ -74,8 +79,8 @@
                       <label for="highRisk">Getting help for someone high risk</label><br>
 
                       <input type="radio" id="socialSupport" name="important" value="Accessing Social support">
-                      <label for="socialSupport" style="margin-bottom: 30px;">Accessing social support</label><br><br>
-                    
+                      <label for="socialSupport" style="margin-bottom: 30px;">Accessing social support</label><br><br>     
+                    </fieldset>
 
                         <button id="submitBtn" style="padding:10px;" type='button'>Submit</button> 
 
