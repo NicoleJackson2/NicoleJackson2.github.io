@@ -316,6 +316,10 @@ a{
   }
 
   /*search page/ bar */
+
+#searchLabel{
+  display: none;
+}
 #searchPageBar{
     width: 300px;
     text-align: center;
@@ -334,6 +338,13 @@ a{
     text-align:center;
 }
 
+@media (max-width: 450px ) {
+  .searchPageBox{
+    margin: 0 auto;
+    display: block;
+    padding-left: 40px;
+  }
+}
 @media (max-width: 600px) {
     #categorySearch {
      padding-left: 20px;

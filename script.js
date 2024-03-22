@@ -44,6 +44,7 @@ for (i = 0; i < coll.length; i++) {
 
 /*code for search*/
 
+
 /*index list for category, containing page, title and key words*/
 const categoryIndex = {
   "./addiction.html": {
