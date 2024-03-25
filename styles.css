@@ -5,9 +5,19 @@
 }
 body {
     background: #e7dfdd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#3F3250;
+
 }
+
+
 p{
     font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,h2, h3, h4, h5, h6{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 /*nav*/
 .nav {
@@ -19,6 +29,7 @@ p{
     background: #22252c;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .nav,
@@ -32,7 +43,7 @@ p{
 }
 
 a{
-    color: #3F3250;
+  color: #3F3250;
     text-decoration: underline;
 }
 
@@ -177,6 +188,7 @@ a{
 .footer{
     background-color: #22252c;
     padding: 40px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .footer ul {
@@ -209,12 +221,8 @@ a{
 
   /*index page*/
 
-  .w3-text{
-    color: #3F3250;
-  }
 
   .standards{
-    color: #3F3250;
     text-decoration: underline;
   }
 

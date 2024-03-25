@@ -211,5 +211,3 @@ clear.innerHTML = "";
     return results;
   }
 
-
-
