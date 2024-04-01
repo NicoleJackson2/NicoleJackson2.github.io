@@ -283,7 +283,7 @@ a{
     margin: 5px;
     color:#3F3250;
     padding: 0px 18px;
-    background-color: white;
+    background-color: #eee;
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
