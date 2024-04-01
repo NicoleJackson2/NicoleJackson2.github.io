@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background: #ffffff;
+    background: #e7dfdd;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:#3F3250;
 
@@ -48,7 +48,7 @@ a{
 }
 
 .darkA{
-    color:#ffffff;
+    color:#e7dfdd;
     text-decoration: none;
 }
 
@@ -72,7 +72,7 @@ a{
 }
 
 .nav .search-icon{
-    color: #ffffff;
+    color: #e7dfdd;
     font-size: 20px;
     cursor: pointer;
 }
@@ -162,7 +162,7 @@ a{
         left: 0;
     }
     .nav .navOpenBtn{
-        color: #ffffff;
+        color: #e7dfdd;
         font-size: 20px;
         cursor: pointer;
     }
@@ -170,7 +170,7 @@ a{
         position: absolute;
         top: 20px;
         right: 20px;
-        color: #ffffff;
+        color: #e7dfdd;
         font-size: 20px;
         cursor: pointer;
     }
@@ -199,7 +199,7 @@ a{
     font-size: 20px;
     line-height: 1.6;
     margin-bottom: 0;
-    color: #ffffff
+    color: #e7dfdd
   }
   .footer ul a {
     text-decoration: none;
@@ -216,7 +216,7 @@ a{
     margin-top: 10px;
     text-align: center;
     font-size: 15px;
-    color: #ffffff;
+    color: #e7dfdd;
   }
 
   /*index page*/
@@ -235,20 +235,20 @@ a{
   .quizBtn{
     margin-top: 20px;
     background-color:#3F3250;
-    color:#ffffff;
+    color:#e7dfdd;
     font-size: 18px;
     padding: 12px 28px;
     border-radius: 4px;
   }
 
   .quizBtnText{
-    color:#ffffff;
+    color:#e7dfdd;
   }
 
   /*standards pages*/
   /* Style the button that is used to open and close the collapsible content */
 .collapsible {
-    background-color: #eee;
+    background-color: #ffffff;
     color: #3F3250;
     cursor: pointer;
     padding: 18px;
@@ -283,7 +283,7 @@ a{
     margin: 5px;
     color:#3F3250;
     padding: 0px 18px;
-    background-color: #eee;
+    background-color: #ffffff;
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
@@ -312,7 +312,7 @@ a{
 /*enlarge text button*/
 .btn{
     background-color:#3F3250;
-    color:#ffffff;
+    color:#e7dfdd;
     font-size: 15px;
     border-radius: 2px;
     margin-left: 10px;
